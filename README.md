@@ -16,4 +16,3 @@ QRコードの生成場所は、addqrcord.pyの場所に「qrcode」フォルダ
 
 python 3.8.10にて作成　仮想環境Venvを使用
 import sys　の行は不要かも
-
