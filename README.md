@@ -1,6 +1,5 @@
 # addqrcord.py
-
-## CSVファイルのリストから、QR cordを生成する
+pythonでCSVリストからGoogleMapへのリンクQRコードを生成する
 
 CSVファイルは、「ファイル名, 住所」の形式で作成する
 CSVファイルの文字コードはUTF-8
@@ -15,4 +14,5 @@ QRコードの生成場所は、addqrcord.pyの場所に「qrcode」フォルダ
 ## 動作環境
 
 python 3.8.10にて作成　仮想環境Venvを使用
+
 import sys　の行は不要かも
