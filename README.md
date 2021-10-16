@@ -18,4 +18,5 @@ import sys　の行は不要かも
 
 ## 参考にしたサイト
 住所から緯度経度を取得するpythonスニペット
+
 https://qiita.com/paulxll/items/7bc4a5b0529a8d784673?utm_source=stock_summary_mail&utm_medium=email&utm_term=adsystem-om&utm_content=%E4%BD%8F%E6%89%80%E3%81%8B%E3%82%89%E7%B7%AF%E5%BA%A6%E7%B5%8C%E5%BA%A6%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8Bpython%E3%82%B9%E3%83%8B%E3%83%9A%E3%83%83%E3%83%88&utm_campaign=stock_summary_mail_2021-10-16
