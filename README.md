@@ -16,8 +16,11 @@ QRコードの生成場所は、addqrcord.pyの場所に「qrcode」フォルダ
 
 ## 動作環境
 
-python 3.8.10にて作成　仮想環境Venvを使用
-import sys　の行は不要かも
+python 3.8.10にて作成
+
+仮想環境Venvを使用
+
+import sys　は不要かも
 
 ## 参考にしたサイト
 住所から緯度経度を取得するpythonスニペット
