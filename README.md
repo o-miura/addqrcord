@@ -1,7 +1,8 @@
 # CSVリストからGoogleMapへのリンクQRコードを生成
+python3.8.10で開発
+
 ## addqrcord.py
 
-python3.8.10で開発
 CSVリストからGoogleMapへのリンクQRコードを生成する
 
 CSVファイルは、「ファイル名, 住所」の形式で作成する
